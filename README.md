@@ -8,17 +8,4 @@ HR Manger is a mobile application for, It contains the management of the daily b
 <hr>
 
 
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/1.png" align="right"/>
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/2.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/3.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/4.png" align="right"/> 
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/5.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/6.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/7.png" align="right"/>
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/8.png" align="right"/>
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/9.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/10.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/11.png" align="right"/> 
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/12.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/13.png" align="right"/>  
-<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Human-Resources/blob/master/14.png" align="right"/>
+
